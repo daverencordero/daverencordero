@@ -1,6 +1,6 @@
 ###  💬 Hello！ I'm Dave Cordero
 
-Hey! Talk later, Collab first! **→ <daverencordero@gmail.com> email is key**
+Hey! Talk later, Collab first!
 
 - 🌱 I’m currently learning **React** and **Machine Learning Models** 
 - 👯 I’m looking to collaborate on **Web Applications** or **Community Projects**
