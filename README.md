@@ -2,7 +2,7 @@
 
 Hey! Talk later, Collab first!
 
-- 🌱 I’m currently learning **React** and **Machine Learning Models** 
+- 🌱 I’m currently learning **Web Design Trends** and **Advanced CSS** 
 - 👯 I’m looking to collaborate on **Web Applications** or **Community Projects**
 - ❓ Ask me about **anything**
 - 🔴 日本語も勉強している
