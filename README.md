@@ -1,6 +1,7 @@
 ###  💬 Hello！ I'm Dave Cordero
 
 I'm a self-taught graphic designer looking to translate my artwork into web design. I've fallen in love with front-end web development in the past years. Now I'm looking to optimize the currently available web technology to express myself as an artist fully.
+
 **Things about me :**
 
 - 🌱 I’m currently learning **LESS CSS** and **October CMS** 
