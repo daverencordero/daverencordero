@@ -7,6 +7,7 @@ I'm a self-taught graphic designer looking to translate my artwork into web desi
 - 🌱 I’m currently learning **LESS CSS** and **October CMS** 
 - 👯 I’m looking to collaborate on **Web Applications** or **Community Projects**
 - ❓ Ask me about **CSS and Web Development**
-- 💼 I'm currently working in **Xtendly**
+- 💼 I'm currently working in  [**Xtendly**](https://xtendly.com/) and [**Prosperna**](https://www.prosperna.com/) 
 - 🔴 **日本語**も勉強している
 - 📫 How to reach me: <daverencordero@gmail.com> / <drcordero@up.edu.ph> / [@daverencordero](https://twitter.com/daverencordero) (twitter) / CORE#9127 (discord)
+
